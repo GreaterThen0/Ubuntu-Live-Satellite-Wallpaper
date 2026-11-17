@@ -1,6 +1,15 @@
 # Ubuntu-Live-Satellite-Wallpaper
 A script that pulls a satellite image, crops, and add city weather information
 
+
+
+<img width="1440" height="1440" alt="goes" src="https://github.com/user-attachments/assets/64f0de4a-e8a4-444e-aa66-f0ef548a1a4f" />
+
+
+
+
+
+
 Requires
 
 ImageMagick          https://imagemagick.org/download/#gsc.tab=0
